@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.cards-container {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.home-title {
+
+	color: black;
+	text-align: center;
+	font-size: 4vw;
+	margin: 4vw;
+}
+
+.link-router {
+
+	text-decoration: none;
+
+}
