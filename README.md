@@ -5,7 +5,15 @@
 <h1>Sobre o projeto</h1>
 <p> Esse foi um projeto feito em React, o app consome uma api externa que fornece dados sobre a série Rick and Morty. Gostei muito de realizar o projeto, pois nele tive a oportunidade de testar meus conhecimentos em React, mesmo sendo um projeto bem simples, consegui utilizar vários fundamentos (useState, useEffect, reactRouter, entre outros.)</p>
 
-  <h1>Como instalar e utilizar</h1>
+  <h1>Instalação</h1>
+  <h2>Requisitos</h2>
+  <ul>
+  
+  <li>Git</li>
+  <li>Nodejs</li>
+  <li>Gerenciador de pacotes (npm)</li>
+  
+  </ul>
   <h2>Baixe o repositório</h2>
   
   ```
@@ -35,3 +43,8 @@
   <li>Responsividade</li>
  
 </ul>
+
+<h1>Final</h1>
+<p>O projeto está finalizado.</p>
+
+`Alison Fracasso Savi, Dezembro de 2022`
