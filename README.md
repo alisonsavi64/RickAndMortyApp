@@ -9,6 +9,7 @@
   <h2>Requisitos</h2>
   <ul>
   
+  <li>React</li>
   <li>Git</li>
   <li>Nodejs</li>
   <li>Gerenciador de pacotes (npm)</li>
